@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BrightLight | Login - Malupiton Edition",
-  description: "Official BrightLight login portal featuring Boss Malupiton",
+  title: "BrightLight | Sign In & Authentication Portal",
+  description: "Illuminate your workflow. Official BrightLight authentication and workspace portal.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
